@@ -23,14 +23,14 @@ Welcome to the **Java Learning Path** repository! This project is designed to pr
 ## 📥 Installation
 To get started with **Java Learning Path**, clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/ChatGTHB/java-learning-path.git
+git clone https://github.com/cihat-kose/java-learning-path.git
 ```
 Ensure you have Java Development Kit (JDK) installed on your machine. You can download it from [here](https://www.oracle.com/java/technologies/javase-downloads.html).
 
 Alternatively, you can open the project directly in IntelliJ IDEA from VCS:
 1. Open IntelliJ IDEA.
 2. Select `File` -> `New` -> `Project from Version Control`.
-3. In the dialog that appears, enter the URL of the repository: `https://github.com/ChatGTHB/java-learning-path.git`.
+3. In the dialog that appears, enter the URL of the repository: `https://github.com/cihat-kose/java-learning-path.git`.
 4. Click `Clone`.
 
 ## ⚙️ Usage
@@ -52,7 +52,7 @@ Detailed documentation for each training module is included within the repositor
 Example code is provided within each module's directory. These examples illustrate key concepts and help you apply them in real-world scenarios.
 
 ## 👥 Contributors
-- [ChatGTHB](https://github.com/ChatGTHB)
+- [cihat-kose](https://github.com/cihat-kose)
 
 ## 🤝 Contributing
 Contributions are welcome! 
