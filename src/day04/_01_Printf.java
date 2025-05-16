@@ -1,19 +1,17 @@
 package day04;
 
 public class _01_Printf {
-
     public static void main(String[] args) {
+        int number = 5;
+        double ratio = 10 / (double) 3;
 
-        int sayi = 5;
-        double oran = 10 / (double) 3;
+        System.out.println("number = " + number);
+        System.out.println("ratio = " + ratio);
 
-        System.out.println("sayi = " + sayi);
-        System.out.println("oran = " + oran);
-
-        System.out.printf("sayilar = %d - %f", sayi, oran);
+        System.out.printf("values = %d - %f", number, ratio);
         System.out.println();
-        System.out.printf("sayilar = %5d - %.2f", sayi, oran);
+        System.out.printf("values = %5d - %.2f", number, ratio);
         System.out.println();
-        System.out.printf("sayilar = %-5d - %.2f", sayi, oran);
+        System.out.printf("values = %-5d - %.2f", number, ratio);
     }
 }
