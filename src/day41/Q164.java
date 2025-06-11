@@ -7,9 +7,9 @@ public class Q164 {
         int count = 0;
 
         for (int e : data) {
-            if (e != key) {  // 2014 den farklı olduğunda continue
+            if (e != key) {  // continue when the value is not 2014
                 continue;
-                // count++; // çalışma ihtimali olmayan kod Compiler ERROR
+                // count++; // unreachable code - compiler error
             }
         }
         System.out.println(count + " Found");
