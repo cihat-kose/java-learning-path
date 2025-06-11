@@ -7,11 +7,11 @@ public class Q164_2 {
         int count = 0;
 
         for (int e : data) {
-            if (e != key) {  // 2014 den farklı olduğunda continue
+            if (e != key) {  // continue when the value is not 2014
                 continue;
             }
 
-            count++;  // 2014 değrinde count 1 oldu, 2014 2
+            count++;  // count increments for each 2014 value (appears twice)
         }
         System.out.println(count + " Found");
     }
