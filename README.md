@@ -36,6 +36,12 @@ Alternatively, you can open the project directly in IntelliJ IDEA from VCS:
 ## ⚙️ Usage
 Navigate to the project directory and open the project using your favorite IDE (such as IntelliJ IDEA or Eclipse). You can run the training modules by executing the provided Java files. Each module is designed to cover specific topics in Java, with detailed explanations and example code.
 
+For a quick compilation of all examples, run the provided `compile.sh` script:
+```bash
+./compile.sh
+```
+This will compile every Java file into the `out` directory.
+
 ## ✨ Features
 - 42-day Java training program  
 - Practical exercises and real-world examples  
