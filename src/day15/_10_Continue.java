@@ -2,7 +2,7 @@ package day15;
 
 import java.util.Scanner;
 
-public class _08_Continue {
+public class _10_Continue {
     public static void main(String[] args) {
         // Print each character of the entered string
         // on a new line, but do not print spaces.

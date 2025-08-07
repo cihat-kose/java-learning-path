@@ -2,7 +2,7 @@ package day15;
 
 import java.util.Scanner;
 
-public class _07_Continue {
+public class _09_Continue {
     public static void main(String[] args) {
         // Ask the user for 5 numbers.
         // Sum the numbers except those between 6 and 10 (inclusive).
