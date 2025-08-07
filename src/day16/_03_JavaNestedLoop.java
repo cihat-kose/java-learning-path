@@ -1,6 +1,6 @@
-package day15;
+package day16;
 
-public class _09_Example {
+public class _03_JavaNestedLoop {
     public static void main(String[] args) {
         // Previously, you created the multiplication table for 1.
         // Now, create the multiplication tables up to 5.
