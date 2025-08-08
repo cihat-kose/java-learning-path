@@ -2,7 +2,7 @@ package day17;
 
 import java.util.Arrays;
 
-public class _07_JavaArrayMethods {
+public class _12_JavaArrayMethods {
     public static void main(String[] args) {
         String[] names = {"Zeynep", "Roman", "Cihan", "Ahmet"};
 
