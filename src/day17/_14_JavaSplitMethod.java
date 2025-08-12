@@ -2,7 +2,7 @@ package day17;
 
 import java.util.Scanner;
 
-public class _11_JavaSplitMethod {
+public class _14_JavaSplitMethod {
     public static void main(String[] args) {
         // Find out how many words are in a sentence entered by the user.
         // For example: "Today the weather is very nice" -> 5
