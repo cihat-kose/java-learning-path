@@ -1,8 +1,8 @@
-package day18;
+package day17;
 
 import java.util.Arrays;
 
-public class _02_Example {
+public class _15_JavaArray {
     public static void main(String[] args) {
         // Fill an array of 10 elements with random numbers (including 10),
         // then find out how many of them are odd and how many are even.
